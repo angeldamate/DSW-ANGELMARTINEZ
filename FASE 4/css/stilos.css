@@ -31,14 +31,19 @@ li a {
     display: block;
 }
 
-
-
 a:hover {
     background: #F6B2A9;
     color: #685C59;
 }
 
+li {
+    
+    list-style: none;
+    font-size: large;
+    margin: auto;
+    display: inline-block;
 
+}
 
 section{
     display: grid;
